@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @3claudiovinicius
 - 👀 I’m interested in Embedded Systems
-- 🌱 I’m currently learning Assembly
+- 🌱 I’m currently learning Micropython
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
